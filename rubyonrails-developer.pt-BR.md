@@ -70,4 +70,4 @@ Aqui a meritocracia é levada a sério! E o mais importante, nós te ajudamos a 
 
 # Contato
 
-Interessado? Me envie seu curriculum para felipe@internetsistemas.com.br
+Interessado? Me envie seu curriculum para contato@internetsistemas.com.br
