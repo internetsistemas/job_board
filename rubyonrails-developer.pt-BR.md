@@ -38,7 +38,7 @@ Nós utilizamos basicamente o processo ágil, mais detalhadamente um fork do SCR
 * Wireframes
 * MER
 
-Depois da Sprint Meeting, o desenvolvedor está "livre" para trabalhar, então se conecta no HipChat para discutir rapidamente como o time o que irá fazer, abre o Trello e escolhe uma story, entrega e faz um Pull Request no Github. Simples!
+Depois da Sprint Meeting, o desenvolvedor está "livre" para trabalhar, então se conecta no HipChat para discutir rapidamente com o time o que irá fazer, abre o Trello e escolhe uma story, entrega e faz um Pull Request no Github. Simples!
 
 Todos os dias o time se reune para discutir:
 
