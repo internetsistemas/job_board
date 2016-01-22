@@ -68,6 +68,12 @@ Aqui a meritocracia é levada a sério! E o mais importante, nós te ajudamos a 
 * Thiago José, Engenheiro de Computação: Programador web sênior e consultor técnico interno com mais de 10 anos de experiência.
 * Time: Composto por pessoas que realmente querem fazer a diferença e com uma cultura de colaboração forte onde o GitHub é a ferramenta primária para isso.
 
+## Forma de contratação e remuneração
+
+A forma de contratação é Pessoa Jurídica (PJ), e com contratação visando longo prazo (não é apenas para um projeto específico de poucos meses).
+
+Estamos buscando pessoas com experiência Junior à Pleno, com valores por hora de R$15,00 à R$35,00.
+
 # Contato
 
 Interessado? Me envie seu curriculum para rh@internetsistemas.com.br
