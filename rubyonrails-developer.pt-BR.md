@@ -72,7 +72,7 @@ Aqui a meritocracia é levada a sério! E o mais importante, nós te ajudamos a 
 
 A forma de contratação é Pessoa Jurídica (PJ), e com contratação visando longo prazo (não é apenas para um projeto específico de poucos meses).
 
-Estamos buscando pessoas com experiência Junior à Pleno, com valores por hora de R$15,00 à R$35,00.
+Estamos buscando pessoas com experiência Junior a Pleno, com valores por hora de R$15,00 a R$35,00.
 
 # Contato
 
