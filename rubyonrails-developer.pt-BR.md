@@ -26,8 +26,8 @@ Habilidades necessárias:
 - Framework backend: RubyOnRails 4
 - Framework frontend: AngularJS
 - Teste: RSpec for Ruby, and Jasmine for AngularJS
-- Versionamento: Git with Github
-- Feedback de código: CodeClimate and CircleCI
+- Versionamento: Github
+- Feedback de código: Rubocop e CircleCI
 - Feedback de performance: Dashboard SCRUM GO
 
 ## Dia-a-dia do desenvolvedor
@@ -53,7 +53,7 @@ O mais importante é que apesar do time receber os artefatos sugeridos, o desenv
 
 ## Nosso processo de gestão
 
-O mais valioso na [iS] é o resultado (não somente códigos), então o nosso processo ágil de desenvolvimento chamado SCRUM GO provê para o desenvolvedor indicadores e feedbacks dos gestores baseando-se: em sua performance, qualidade, e criatividade, e ainda, os indicadores técnicos do Code Climate e do CircleCI. Então:
+O mais valioso na [iS] é o resultado (não somente códigos), então o nosso processo ágil de desenvolvimento chamado SCRUM GO provê para o desenvolvedor indicadores e feedbacks dos gestores baseando-se: em sua performance, qualidade, e criatividade, e ainda, os indicadores técnicos do código. Então:
 
 1 - Se você não está em uma bom dia ou está passando por algum tipo de problema técnico ou pessoal, nosso time técnico ou gestor vai te ajudar, agindo na causa. Ou seja, todo mundo vai se mobilizar para te ajudar, ou;
 
