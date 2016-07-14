@@ -7,15 +7,16 @@ Somos uma startup localizada em São José dos Campos – São Paulo. Nosso proj
 
 Nós utilizamos JavaScript e o framework AngularJS juntamente com um arsenal de ferramentas de alta produtividade como, por exemplo, o Grunt. Esta é uma oportunidade full-time, ou seja, necessitamos pessoas com disponibilidade de trabalho de pelo menos 30 horas segunda a sexta.
 
-Os interessados devem mostrar proficiência em: JavaScript, plataforma web, TDD ou BDD, e de preferência EC6. E uma certa experiência em AngularJS.
+Os interessados devem mostrar proficiência em: JavaScript, plataforma web, TDD ou BDD, e de preferência ES6. E uma certa experiência em AngularJS.
 
 Habilidades necessárias:
 
-- Um bom nível de conhecimento em JavaScript, EC6 e Clean Code
+- Um bom nível de conhecimento em JavaScript e Clean Code
 - Ter tido experiência com linguagens de marcação como HTML5, CSS3 e SASS
 - Entender de chamadas assíncronas utilizando JSON como formato de transporte e REST
 - Versionamento de código (Git + Github)
 - Experiência com AngularJS (ou algum outro framework como, por exemplo, Meteor, Backbone, React, etc)
+- Possível experiência em ES6
 - Experiência com pelo menos algum framework de teste unitário Javascript, por exemplo, Jasmine e E2E
 - Conceitos básicos de UX
 - Entender pelo menos o básico de segurança web
@@ -32,7 +33,7 @@ Habilidades necessárias:
 
 ## Dia-a-dia do desenvolvedor
 
-Nós utilizamos basicamente o processo ágil, mais detalhadamente um fork do SCRUM chamado SCRUM GO. Todas as Segundas o time se reune e discute sobre o que irá ser feito no SPRINT, e todos os artefatos são entregues para os desenvolvedores, como:
+Nós utilizamos basicamente o processo ágil, mais detalhadamente um fork do SCRUM chamado SCRUM GO. Todas as Segundas o time se reúne e discute sobre o que irá ser feito no SPRINT, e todos os artefatos são entregues para os desenvolvedores, como:
 
 * Diagrama de processos e detalhamento
 * Wireframes
@@ -55,7 +56,7 @@ O mais importante é que apesar do time receber os artefatos sugeridos, o desenv
 
 O mais valioso na [iS] é o resultado (não somente códigos), então o nosso processo ágil de desenvolvimento chamado SCRUM GO provê para o desenvolvedor indicadores e feedbacks dos gestores baseando-se: em sua performance, qualidade, e criatividade, e ainda, os indicadores técnicos do código. Então:
 
-1 - Se você não está em uma bom dia ou está passando por algum tipo de problema técnico ou pessoal, nosso time técnico ou gestor vai te ajudar, agindo na causa. Ou seja, todo mundo vai se mobilizar para te ajudar, ou;
+1 - Se você não está em um bom dia ou está passando por algum tipo de problema técnico ou pessoal, nosso time técnico ou gestor vai te ajudar, agindo na causa. Ou seja, todo mundo vai se mobilizar para te ajudar, ou;
 
 2 - Se você está "mandando bala", e entregando resultado, você será recompensado por isso ($ e reconhecimento).
 
