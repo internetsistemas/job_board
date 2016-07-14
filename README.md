@@ -4,5 +4,5 @@
 
 # Job Board
 
-* [RubyOnRails Developer - REMOTE](/rubyonrails-developer.pt-BR.md)
-* [RubyOnRails Girl - REMOTE](/rubyonrails-developer-girl.pt-BR.md)
+* [Front-End Developer - REMOTE](/frontend-developer.pt-BR.md)
+* [Ruby on Rails Developer - REMOTE](/rubyonrails-developer.pt-BR.md)
